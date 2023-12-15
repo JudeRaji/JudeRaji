@@ -2,7 +2,7 @@
 - 👀 I’m interested in traveling, gaming and learning new skills.
 - 🌱 I’m currently learning Frontend Web Development, as I hope to be a great Web Developer some day.
 - 💞️ I’m looking to collaborate on Data Science and Analytics.
-- 📫 You can reach me via my personal  email judera.de@gmail.com
+- 📫 You can reach me via my personal  email juderaji10@gmail.com
 
 <!---
 JudeRaji/JudeRaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
